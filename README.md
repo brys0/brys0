@@ -17,4 +17,4 @@ Hi! I'm Brys i'm currently in highschool at age `16` I develop projects in the m
 
 
 
-## Also my stats aren't great I mostly upload to github with major changes in one commit not seperate commits, Sorry!
+#### Also my stats aren't great I mostly upload to github with major changes in one commit not seperate commits, Sorry!
