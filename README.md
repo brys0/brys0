@@ -1,6 +1,7 @@
 ### Greetings programmers 🖥️
 
 ### Projects im currently developing ⏱️
+[Spotify-Web `Opensource spotify track, playlist, album, artist parsing webserver`](https://github.com/brys0/Spotify-Web/)
 [Kyro `An easy to use music bot with completely open source tech`](https://github.com/brys0/Kyro)
 
 ### Some stats 🕹️
