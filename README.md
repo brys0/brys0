@@ -9,7 +9,7 @@
 
 ### Bio 🍁
 
-Hi! I'm Brys i'm currently in highschool at age `16` I develop projects in the meantime such as Kyro (Mentioned Above). I currently work in Kotlin, Java, Javascript, Typescript, C#, and php. I'm learning more every chance I get! I don't really develop front end projects I more like backend style things more. However I also make logos and such. I live in the United states as well
+Hey! I work in primarly large API system with cache systems so backend development
  
  
 > If you can't tell already i'm bad at introductions
