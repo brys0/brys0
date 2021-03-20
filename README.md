@@ -1,18 +1,6 @@
 
-Run me!
-```kt
-import java.lang.StringBuilder
-fun main() {
-    val brys = User(name = "Brys", age = 17, occupation = "Developer", nerd = true)
-    val user = StringBuilder()
-    user.append("Name: ${brys.name}\n")
-    user.append("Age: ${brys.age}\n")
-    user.append("Occupation: ${brys.occupation}\n")
-    user.append("Nerd: ${brys.nerd}")
-    println(user)
-}
-data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
-```
+
+
 
 ### Greetings programmers 🖥️
 
@@ -34,4 +22,23 @@ Hey! I work in primarly large API system with cache systems so backend developme
 
 
 
-#### Also my stats aren't great I mostly upload to github with maaor changes in one commit not seperate commits, Sorry!
+> About me
+<h3>
+    
+```kotlin
+​
+import java.lang.StringBuilder
+fun main() {
+    val brys = User(name = "Brys", age = 17, occupation = "Developer", nerd = true)
+    val user = StringBuilder()
+    user.append("Name: ${brys.name}\n")
+    user.append("Age: ${brys.age}\n")
+    user.append("Occupation: ${brys.occupation}\n")
+    user.append("Nerd: ${brys.nerd}")
+    println(user)
+}
+data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
+```
+</h3>
+
+![CODE](https://i.brys.tk/VlUJ)
