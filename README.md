@@ -14,12 +14,6 @@ fun main() {
 }
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
-![IMG](https://i.brys.tk/JGUK.gif)
-
-
-
-
-
 
 ### Greetings programmers 🖥️
 
