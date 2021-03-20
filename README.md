@@ -1,3 +1,26 @@
+
+
+```kt
+import java.lang.StringBuilder
+
+fun main() {
+    val brys = User(name = "Brys", age = 17, occupation = "Developer", nerd = true)
+    val user = StringBuilder()
+    user.append("Name: ${brys.name}\n")
+    user.append("Age: ${brys.age}\n")
+    user.append("Occupation: ${brys.occupation}\n")
+    user.append("Nerd: ${brys.nerd}")
+    println(user)
+}
+data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
+```
+![IMG](https://i.brys.tk/JGUK.gif)
+
+
+
+
+
+
 ### Greetings programmers 🖥️
 
 ### Projects im currently developing ⏱️
@@ -10,12 +33,12 @@
 ### Bio 🍁
 
 Hey! I work in primarly large API system with cache systems so backend development
- 
- 
+
+
 > If you can't tell already i'm bad at introductions
 
 
 
 
 
-#### Also my stats aren't great I mostly upload to github with major changes in one commit not seperate commits, Sorry!
+#### Also my stats aren't great I mostly upload to github with maaor changes in one commit not seperate commits, Sorry!
