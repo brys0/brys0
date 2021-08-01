@@ -5,7 +5,7 @@
 ### Greetings programmers 🖥️
 
 ### Projects im currently developing ⏱️
-[Spotify-Web `Opensource spotify track, playlist, album, artist parsing webserver`](https://github.com/brys0/Spotify-Web/)
+[Chatty `A simple Chat client for the 21st century`](https://chatty.feuer.tech)
 
 
 ### Some stats 🕹️
