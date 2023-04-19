@@ -5,7 +5,7 @@
 ### Greetings programmers 🖥️
 
 ### Projects im currently developing ⏱️
-[Chatty `A simple Chat client for the 21st century`](https://chatty.feuer.tech)
+[Lightable `Chat away`](https://lightable.app)
 
 
 ### Some stats 🕹️
@@ -23,14 +23,14 @@ Hey! I work in primarly large API system with cache systems so backend developme
 
 
 > About me
-<h3>
+
     
 ```kotlin
 ​
 import java.lang.StringBuilder
 
 fun main() {
-    val brys = User(name = "Brys", age = 17, occupation = "Developer", nerd = true)
+    val brys = User(name = "Brys", age = 18, occupation = "Developer", nerd = true)
     val user = StringBuilder()
     user.append("Name: ${brys.name}\n")
     user.append("Age: ${brys.age}\n")
@@ -40,6 +40,4 @@ fun main() {
 }
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
-</h3>
 
-![CODE](https://i.brys.tk/VlUJ)
